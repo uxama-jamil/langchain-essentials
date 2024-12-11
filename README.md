@@ -16,7 +16,6 @@ Welcome to the LangChain Crash Course repository! This resource contains all the
 ### Prerequisites
 
 - Python 3.10 or 3.11
-- Poetry (Follow this [Poetry installation tutorial](https://python-poetry.org/docs/#installation) to install Poetry on your system)
 
 ### Installation
 
@@ -35,7 +34,7 @@ Welcome to the LangChain Crash Course repository! This resource contains all the
 
 3. Set up your environment variables:
 
-   - Rename the `.env.example` file to `.env` and update the variables inside with your own values. Example:
+   Rename the `.env.example` file to `.env` and update the variables inside with your own values. Example:
 
    ```bash
    mv .env.example .env
